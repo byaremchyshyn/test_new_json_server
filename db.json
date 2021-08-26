@@ -1,8 +1,8 @@
 {
   "profile": {
    "sub":"byarem",
-   "given_name":"Bohdan",
-   "name":"Bohdan Yaremchyshyn",
+   "firstName":"Bohdan",
+   "lastName":"Yaremchyshyn",
    "email":"byarem@mycompany.com"
   }
 }
