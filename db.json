@@ -1,0 +1,8 @@
+{
+  "profile": {
+   "sub":"bob",
+   "given_name":"Bob",
+   "name":"Bob Smith",
+   "email":"bob@mycompany.com"
+  }
+}
